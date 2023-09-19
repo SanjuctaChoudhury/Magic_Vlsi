@@ -1,5 +1,7 @@
 # Magic_Vlsi
 the repository makes use of open source eda tools like Iverilog, Yosys , Magic_vlsi
+
+
 the files are as follows:-
 1)Screenshot from 2023-09-18 20-12-54.png - inverter layout snap in magic vlsi tool
 2)inverter.mag - corresponding inverter magic file
